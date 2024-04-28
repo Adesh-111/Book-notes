@@ -1,4 +1,4 @@
-# Book Notes
+# Book Notes - A CRUD Application
 
 ## Overview
 
