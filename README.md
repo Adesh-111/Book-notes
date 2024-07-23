@@ -53,6 +53,21 @@ This project is a capstone based on the idea of taking notes on books after read
 8. **Code Sharing**
    - Commit and push project to GitHub.
    - Include instructions for running the code in README.md.
+  
+## OUTPUT IMAGES
+
+![image](https://github.com/user-attachments/assets/ed09e6d7-02ad-4050-a524-f974e7947113)
+
+![image](https://github.com/user-attachments/assets/72f24203-a99b-48db-95f8-7b18a76f0670)
+
+![image](https://github.com/user-attachments/assets/664a2d3d-7541-48e3-b325-29dcefd9d765)
+
+![image](https://github.com/user-attachments/assets/79c988ce-8c33-4f92-82eb-0882eb286866)
+
+![image](https://github.com/user-attachments/assets/c5d70071-defc-471b-908a-1c8cfd4ea72f)
+
+
+
 
 ## Recommended Resources
 
